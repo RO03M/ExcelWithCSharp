@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\Projetos\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\gabri\Documents\Projetos\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\gabri\Documents\Projetos\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\gabri\Documents\Projetos\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Projetos\Excel\Excel\obj\Debug\Excel.csproj.ResolveComReference.cache
+C:\Users\gabri\Documents\Projetos\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\gabri\Documents\Projetos\Excel\Excel\obj\Debug\Excel.pdb
